@@ -12,7 +12,7 @@
 - Discord : ( https://discord.gg/NvbDy6j4Qd )
 
 # (Preview)
-- https://streamable.com/wuy88q
+- https://vimeo.com/843001164
 
 # QB Depends (Standalone scripts)
 
