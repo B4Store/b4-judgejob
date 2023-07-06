@@ -19,7 +19,7 @@
 - https://github.com/qbcore-framework/qb-target
 
 - Car & Map (You Must DownLoad It)
-- 
+- https://www.mediafire.com/file/zpqgebjvdxhrbkw/[judge-job].rar/file
 
 # This Important Things You Must To Add It
 
